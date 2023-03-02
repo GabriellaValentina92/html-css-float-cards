@@ -51,8 +51,11 @@ h3{
     color: white;
 }
 
-.email a{
+.email{
     font-size: 10px;
+}
+
+.email a{
     text-decoration: none;
     color: aqua;
 }
